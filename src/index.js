@@ -2,6 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 
+//TEsting github
+
 /*
 When a Square is clicked, the onClick function provided by the Board is called. Here’s a review of how this is achieved:
 
